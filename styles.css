@@ -1,16 +1,6 @@
-.odd-num {
-  background-color: lightpink;
-  font-family: "Verdana", "DejaVu Sans", sans-serif; 
-}
-#sec-ele {
-  color: blue; 
-  font-size: 36px;
-}
-.third-ele {
-  font-size:24px; 
-}
-#four-ele {
-  background-color: lightgreen;
-  font-size:24px;
-  font-weight: bold;
+div p {
+  background-color: yellow;
+  color:red;
+  font-size:20px;
+  text-align:center;
 }
